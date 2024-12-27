@@ -1,16 +1,28 @@
-## Hi there 👋
+ Hi, I'm Mondo Mwansa! 👋
 
-<!--
-**mondothecoder/mondothecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the internet!  
+I'm a Software Engineer passionate about solving problems, creating impactful solutions, and making tech approachable for everyone.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  🌟 About Me:
+ 🚀 Currently working at Forte Digital Solutions.  
+ 🛠️ Specialize in Linux, networking, and software development.  
+
+
+
+ 🛠️ My Toolbox:
+Programming: PHP, Python, JavaScript, C and PHP laravel  
+Web Development: HTML, CSS, WordPress  
+Networking: Linux, Cisco, Mikrotik  
+
+
+
+   🌍 Fun Fact:
+I believe in simplicity and creativity—whether it's crafting a clean network setup or optimizing software for efficiency.  
+
+
+
+   📫 Connect with Me:
+  GitHub:   https://github.com/MondoMwansa
+  LinkedIn: https://www.linkedin.com/in/MondoMwansa
